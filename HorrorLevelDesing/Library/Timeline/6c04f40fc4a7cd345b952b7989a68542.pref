@@ -3,7 +3,7 @@
 --- !u!114 &1
 MonoBehaviour:
   m_ObjectHideFlags: 61
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
@@ -11,20 +11,68 @@ MonoBehaviour:
   m_Script: {fileID: 1890111309, guid: 7668179ede524d6396c8b7d84461ea29, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timeInFrames: 1
-  timeAreaShownRange: {x: -0.000000025396748, y: 9.976279}
+  timeInFrames: 0
+  timeAreaShownRange: {x: -0.0000000053168834, y: 51.8309}
   showAudioWaveform: 1
   trackHeight: 30
   trackScale: 1
   playRangeEnabled: 0
   timeAreaPlayRange: {x: 3.4028235e+38, y: 3.4028235e+38}
-  windowTime: 0
+  windowTime: 11.8
   verticalScroll: 0
   m_Keys:
   - {fileID: 114425011394386442, guid: 6c04f40fc4a7cd345b952b7989a68542, type: 2}
   - {fileID: 114492111458402126, guid: 6c04f40fc4a7cd345b952b7989a68542, type: 2}
-  - {fileID: 114721583872832662, guid: 6c04f40fc4a7cd345b952b7989a68542, type: 2}
+  - {fileID: 114455322076290628, guid: 6c04f40fc4a7cd345b952b7989a68542, type: 2}
+  - {fileID: 114799462468725236, guid: 6c04f40fc4a7cd345b952b7989a68542, type: 2}
+  - {fileID: 114256603791718274, guid: 6c04f40fc4a7cd345b952b7989a68542, type: 2}
+  - {fileID: 114737134510535650, guid: 6c04f40fc4a7cd345b952b7989a68542, type: 2}
+  - {fileID: 114307782546801124, guid: 6c04f40fc4a7cd345b952b7989a68542, type: 2}
+  - {fileID: 114890030905676578, guid: 6c04f40fc4a7cd345b952b7989a68542, type: 2}
+  - {fileID: 114645573683730874, guid: 6c04f40fc4a7cd345b952b7989a68542, type: 2}
+  - {fileID: 114761317520516886, guid: 6c04f40fc4a7cd345b952b7989a68542, type: 2}
+  - {fileID: 114737822096874732, guid: 6c04f40fc4a7cd345b952b7989a68542, type: 2}
+  - {fileID: 114991156409820400, guid: 6c04f40fc4a7cd345b952b7989a68542, type: 2}
+  - {fileID: 114680780567835864, guid: 6c04f40fc4a7cd345b952b7989a68542, type: 2}
+  - {fileID: 114773805685106704, guid: 6c04f40fc4a7cd345b952b7989a68542, type: 2}
+  - {fileID: 114044055850567288, guid: 6c04f40fc4a7cd345b952b7989a68542, type: 2}
   m_Vals:
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
   - collapsed: 0
     showInlineCurves: 0
     inlineAnimationCurveHeight: 100
