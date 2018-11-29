@@ -61,14 +61,21 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\BrokenDoor.cs" />
     <Compile Include="Assets\Scripts\DoorController.cs" />
-    <Compile Include="Assets\Scripts\GlassDoor.cs" />
+    <Compile Include="Assets\Scripts\LightFliker.cs" />
     <None Include="Assets\Sci-Fi Styled Modular Pack\Readme.txt" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>D:/Users/1810078/Desktop/LevelDesignHorror/HorrorLevelDesing/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
       <HintPath>D:/Users/1810078/Desktop/LevelDesignHorror/HorrorLevelDesing/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Cinemachine">
+      <HintPath>D:/Users/1810078/Desktop/LevelDesignHorror/HorrorLevelDesing/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
+    </Reference>
+    <Reference Include="com.unity.cinemachine.editor">
+      <HintPath>D:/Users/1810078/Desktop/LevelDesignHorror/HorrorLevelDesing/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity2018.1.6/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

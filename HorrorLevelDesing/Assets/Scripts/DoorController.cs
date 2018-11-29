@@ -3,24 +3,25 @@ using System.Collections.Generic;
 using UnityEngine;
 
 
-
+[System.Serializable]
+public struct DoorStruct
+{
+    public string m_DoorName;
+    public bool m_Open;
+    public GameObject m_Door;
+    public Transform m_DoorClosed;
+    public Transform m_DoorOpen;
+}
 
 public class DoorController : MonoBehaviour
 {
-    public class DoorStruct
-    {
-        public string m_DoorName;
-        public bool m_Open;
-        //public GameObject m_Door;
-        //public Transform m_DoorClosed;
-        //public Transform m_DoorOpen;
-    }
+    
 
 
     public List<DoorStruct> m_Doors = new List<DoorStruct>();
 
     private float MoveSpeed = 1.5f;
-/*
+
     public void MoveAllDoors(bool? i_OpenDoor = null, float i_Time = 1.5f)
     {
         foreach (DoorStruct door in m_Doors)
@@ -80,5 +81,5 @@ public class DoorController : MonoBehaviour
             yield return new WaitForEndOfFrame();
         }
     }
-    */
+    
 }
